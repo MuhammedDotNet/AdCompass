@@ -1,0 +1,10 @@
+Яндекс.Директ:/ru
+Ревдинский рабочий:/ru/svrd/revda,/ru/svrd/pervik
+Газета уральских москвичей:/ru/msk,/ru/permobl,/ru/chelobl
+Крутая реклама:/ru/svrd
+Московские новости:/ru/msk,/ru/msk/center
+Санкт-Петербургский вестник:/ru/spb,/ru/spb/center
+Уральская пресса:/ru/svrd,/ru/permobl
+Региональная реклама:/ru/chelobl,/ru/svrd/ekb
+Местные СМИ:/ru/msk/center,/ru/spb/center
+Общероссийские издания:/ru
